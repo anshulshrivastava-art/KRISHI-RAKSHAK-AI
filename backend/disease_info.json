@@ -1,0 +1,830 @@
+{
+  "Potato___Early_blight": {
+    "crop_name": {"en": "Potato", "hi": "आलू"},
+    "disease_name": {"en": "Early Blight", "hi": "अगेती झुलसा"},
+    "status": "diseased",
+    "pathogen": "Alternaria solani (Fungus)",
+    "severity": "Moderate to High",
+    "symptoms": {
+      "en": [
+        "Small, dark brown to black circular spots primarily on older lower leaves.",
+        "Spots enlarge forming concentric rings resembling a target board or bullseye.",
+        "Yellow chlorotic halos develop around spots, eventually turning the whole leaf brown and dry.",
+        "Severe defoliation reduces tuber size and overall crop yield."
+      ],
+      "hi": [
+        "पुरानी निचली पत्तियों पर छोटे, गहरे भूरे या काले रंग के गोल धब्बे दिखना।",
+        "धब्बों में छल्लेदार (कंसेंट्रिक) चक्र बनते हैं जो निशाने (टारगेट बोर्ड) जैसे दिखते हैं।",
+        "धब्बों के चारों ओर पत्ती पीली पड़ जाती है और अंततः सूखकर गिर जाती है।",
+        "पत्तियां गिरने से आलू का आकार छोटा रह जाता है और पैदावार घटती है।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Fungus overwinters in plant debris and infected volunteer potato tubers.",
+        "Spreads via wind, splashing rain, overhead irrigation, and farming tools.",
+        "Favored by warm temperatures (24°C–29°C) alternating with wet and dry periods."
+      ],
+      "hi": [
+        "फफूंद खेत में पुराने फसल अवशेषों और संक्रमित कंदों में जीवित रहती है।",
+        "हवा, बारिश की बौछार, फव्वारा सिंचाई और कृषि उपकरणों द्वारा फैलती है।",
+        "गर्म मौसम (24°C–29°C) और नमी के उतार-चढ़ाव में यह रोग तेजी से पनपता है।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Use certified disease-free seed tubers.",
+        "Adopt a 2-3 year crop rotation with non-solanaceous crops (avoid tomato/brinjal).",
+        "Maintain adequate plant spacing to promote airflow and quick foliage drying.",
+        "Use drip or furrow irrigation instead of overhead sprinklers."
+      ],
+      "hi": [
+        "प्रमाणित एवं रोगमुक्त बीज कंदों का ही उपयोग करें।",
+        "टमाटर या बैंगन के अलावा अन्य फसलों के साथ 2-3 साल का फसल चक्र अपनाएं।",
+        "पौधों के बीच पर्याप्त दूरी रखें ताकि हवा का संचार हो और पत्तियां जल्दी सूखें।",
+        "छिड़काव या फव्वारा सिंचाई की जगह टपक (ड्रिप) सिंचाई अपनाएं।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Remove and safely burn or deep-bury heavily infected lower leaves.",
+          "Ensure balanced fertilization; avoid nitrogen deficiency which predisposes plants to early blight.",
+          "Keep field weed-free, especially of wild solanaceous weeds (nightshade)."
+        ],
+        "hi": [
+          "संक्रमित निचली पत्तियों को तोड़कर खेत से दूर जला दें या गहरा दबा दें।",
+          "संतुलित खाद और उर्वरक दें; नाइट्रोजन की कमी से फसल इस रोग की चपेट में जल्दी आती है।",
+          "खेत को खरपतवार मुक्त रखें, विशेष रूप से मकोय जैसे सोलेनेसी खरपतवार।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Spray Trichoderma viride or Trichoderma harzianum @ 5g/L water in early stages.",
+          "Apply cold-pressed Neem Seed Kernel Extract (NSKE 5%) or Neem Oil (3000 ppm) @ 3-5 ml/L.",
+          "Foliar spray of Pseudomonas fluorescens (10g/L) for microbial competition."
+        ],
+        "hi": [
+          "प्रारंभिक अवस्था में ट्राइकोडर्मा विरिडी 5 ग्राम प्रति लीटर पानी का छिड़काव करें।",
+          "नीम बीज गिरी का अर्क (NSKE 5%) या नीम का तेल (3-5 मिली प्रति लीटर) का छिड़काव करें।",
+          "स्यूडोमोनास फ्लोरोसेंस (10 ग्राम/लीटर) का पर्णीय छिड़काव लाभकारी है।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Prophylactic/Protective: Spray Mancozeb 75% WP @ 2.0-2.5 g/L water or Chlorothalonil 75% WP @ 2.0 g/L.",
+          "Curative (if disease appears): Propineb 70% WP @ 2 g/L or Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/L.",
+          "Important: Rotate chemical classes to prevent fungicide resistance. Always check local label recommendations."
+        ],
+        "hi": [
+          "सुरक्षात्मक छिड़काव: मेंकोजेब 75% WP (2.0-2.5 ग्राम/लीटर) या क्लोरोथैलोनिल 75% WP (2 ग्राम/लीटर)।",
+          "रोग फैलने पर: प्रोपिनेब 70% WP (2 ग्राम/लीटर) या एज़ोक्सीस्ट्रोबिन + डाइफेनोकोनाज़ोल (1 मिली/लीटर)।",
+          "सावधानी: कवकनाशी बदलते रहें। पैकेट पर लिखे निर्देशों का पालन करें और कृषि विशेषज्ञ से सलाह लें।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 22.0,
+      "max_temp_c": 30.0,
+      "min_humidity_pct": 75.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "Warm days followed by high humidity or intermittent rain create high risk for Potato Early Blight.",
+        "hi": "गर्म दिन और उच्च आर्द्रता या रुक-रुक कर बारिश से आलू में अगेती झुलसा का खतरा बहुत बढ़ जाता है।"
+      }
+    }
+  },
+  "Potato___Late_blight": {
+    "crop_name": {"en": "Potato", "hi": "आलू"},
+    "disease_name": {"en": "Late Blight", "hi": "पछेती झुलसा"},
+    "status": "diseased",
+    "pathogen": "Phytophthora infestans (Oomycete)",
+    "severity": "Critical (Epidemic Potential)",
+    "symptoms": {
+      "en": [
+        "Water-soaked, irregular pale-green or brown lesions appearing near leaf tips and margins.",
+        "Lesions rapidly expand into large, dark brown to purplish-black necrotic patches.",
+        "Delicate white cottony/fungal mildew growth visible on the underside of leaves during humid mornings.",
+        "Foul odor in fields as entire vines collapse and rot rapidly within 7-10 days."
+      ],
+      "hi": [
+        "पत्तियों के किनारों और सिरों पर पानी से भीगे हुए, अनियमित भूरे-हरे धब्बे बनना।",
+        "धब्बे तेजी से बढ़कर गहरे भूरे या बैंगनी-काले बड़े मृत चकत्ते बन जाते हैं।",
+        "सुबह के समय अधिक नमी में पत्तियों की निचली सतह पर सफेद रुई जैसा फफूंद दिखाई देना।",
+        "रोग तीव्र होने पर पूरा पौधा 7-10 दिनों में गल जाता है और खेत से दुर्गंध आने लगती है।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Caused by Phytophthora infestans surviving in infected seed tubers.",
+        "Airborne sporangia can travel miles on moist wind currents.",
+        "Highly destructive under cool temperatures (12°C–20°C) with prolonged relative humidity (>90%)."
+      ],
+      "hi": [
+        "फाइटोफ्थोरा इन्फेस्टन्स फफूंद से होता है, जो संक्रमित बीज कंदों में जीवित रहती है।",
+        "हवा में इसके बीजाणु नम हवा के साथ कई किलोमीटर तक फैल सकते हैं।",
+        "ठंडा मौसम (12°C-20°C) और लगातार उच्च नमी (90% से अधिक) में यह महामारी का रूप ले लेता है।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Strictly plant certified, blight-resistant varieties (e.g., Kufri Girdhari, Kufri Himalini).",
+        "Earthing up tubers well (10-15 cm soil cover) to prevent spores washing into soil and rotting tubers.",
+        "Stop irrigation immediately when late blight forecasts or cloudy humid spells occur.",
+        "Destroy cull piles and self-sown potato volunteers before planting."
+      ],
+      "hi": [
+        "रोगरोधी किस्मों (जैसे कुफरी गिरधारी, कुफरी हिमालिनी) और प्रमाणित बीज का उपयोग करें।",
+        "कंदों पर अच्छी तरह मिट्टी चढ़ाएं (10-15 सेमी) ताकि बीजाणु रिसकर कंदों तक न पहुंचें।",
+        "बादल छाए रहने या अधिक नमी के समय सिंचाई तुरंत रोक दें।",
+        "खेत के आसपास पड़े खराब आलू के ढेरों को नष्ट करें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Haulm cutting (dehaulming): Cut and remove vines 10-12 days before harvest if late blight strikes late in season.",
+          "Harvest tubers only in dry weather and sort out blighted tubers before cold storage."
+        ],
+        "hi": [
+          "रोग का गंभीर प्रकोप होने पर फसल कटाई से 10-12 दिन पहले पौधों की शाखाएं (डंठल) काट दें।",
+          "सूखे मौसम में ही खुदाई करें और संक्रमित कंदों को भंडारण से पहले अलग कर दें।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Pre-emptive application of copper-based bio-formulations or Bordeaux mixture (1%).",
+          "Foliar application of fermented cow urine + buttermilk spray (1:10 dilution) in early stages."
+        ],
+        "hi": [
+          "रोग से पूर्व बोर्डो मिश्रण (1%) या कॉपर आधारित जैविक घोल का सुरक्षात्मक छिड़काव करें।",
+          "देसी गाय का गोमूत्र व छाछ (1:10 के अनुपात में) का छिड़काव प्रारंभिक बचाव में उपयोगी है।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Prophylactic (Before disease appearance): Mancozeb 75% WP @ 2.5 g/L or Copper Oxychloride 50% WP @ 3.0 g/L.",
+          "Curative (At first symptom): Cymoxanil 8% + Mancozeb 64% WP @ 2.5 g/L, or Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g/L.",
+          "Severe Outbreak: Dimethomorph 50% WP @ 1 g/L or Mandipropamid 23.4% SC @ 0.8 ml/L. Ensure complete leaf coverage."
+        ],
+        "hi": [
+          "सुरक्षात्मक (रोग आने से पहले): मेंकोजेब 75% WP (2.5 ग्राम/लीटर) या कॉपर ऑक्सीक्लोराइड 50% WP (3.0 ग्राम/लीटर)।",
+          "शुरुआती लक्षण दिखते ही: साइमोक्सानिल + मेंकोजेब (2.5 ग्राम/लीटर) या मेटालैक्सिल + मेंकोजेब (2.5 ग्राम/लीटर)।",
+          "गंभीर प्रकोप: डाइमेथोमॉर्फ 50% WP (1 ग्राम/लीटर) या मैंडीप्रोपामाइड (0.8 मिली/लीटर)। दोनों तरफ छिड़काव सुनिश्चित करें।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 10.0,
+      "max_temp_c": 20.0,
+      "min_humidity_pct": 85.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "URGENT ALERT: Cool cloudy weather with humidity above 85% is ideal for Late Blight epidemic. Inspect fields daily!",
+        "hi": "अति आवश्यक चेतावनी: ठंडा एवं बादलयुक्त मौसम और 85% से अधिक नमी पछेती झुलसा के लिए अत्यंत अनुकूल है। तुरंत निगरानी करें!"
+      }
+    }
+  },
+  "Potato___healthy": {
+    "crop_name": {"en": "Potato", "hi": "आलू"},
+    "disease_name": {"en": "Healthy Plant", "hi": "स्वस्थ पौधा"},
+    "status": "healthy",
+    "pathogen": "None (Plant is in optimal condition)",
+    "severity": "None",
+    "symptoms": {
+      "en": [
+        "Vibrant green, uniform leaf coloration without necrotic lesions or chlorosis.",
+        "Stout, erect stems with vigorous vegetative canopy growth.",
+        "No evidence of fungal mycelium, bacterial ooze, or viral mosaic mottling."
+      ],
+      "hi": [
+        "पत्तियां चमकदार हरी और एकसमान हैं, कोई धब्बा या पीलापन नहीं है।",
+        "पौधे का तना मजबूत और स्वस्थ बढ़वार दिखा रहा है।",
+        "किसी भी प्रकार के फफूंद, जीवाणु या वायरस के लक्षण नहीं हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Good agricultural practices, balanced nutrient management, and timely pest scouting."
+      ],
+      "hi": [
+        "उत्कृष्ट कृषि प्रबंधन, संतुलित खाद व जल प्रबंधन और उचित देखभाल।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Continue scheduled irrigation using moisture tensiometers or soil checks.",
+        "Scout lower canopy twice a week during foggy or humid spells.",
+        "Apply balanced NPK with secondary micronutrients (Zinc, Boron) for tuber quality."
+      ],
+      "hi": [
+        "आवश्यकतानुसार नियमित सिंचाई जारी रखें और जलभराव न होने दें।",
+        "कोहरे या नमी वाले दिनों में सप्ताह में दो बार निचली पत्तियों का निरीक्षण करें।",
+        "आलू के कंद विकास के लिए संतुलित पोटाश व सूक्ष्म पोषक तत्वों (जिंक, बोरॉन) का ध्यान रखें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": ["Keep weed-free and protect from aphids and whiteflies which vector viruses."],
+        "hi": ["खेत को खरपतवार मुक्त रखें और रस चूसक कीटों (माहू/सफेद मक्खी) से बचाव रखें।"]
+      },
+      "organic_biological": {
+        "en": ["Periodic preventive spray of Neem oil (3 ml/L) as natural deterrent."],
+        "hi": ["सुरक्षात्मक रूप से 15-20 दिनों में नीम तेल (3 मिली/लीटर) का छिड़काव करते रहें।"]
+      },
+      "chemical_guidance": {
+        "en": ["No chemical fungicide required. Do not apply unnecessary agrochemicals."],
+        "hi": ["किसी रासायनिक कवकनाशी की आवश्यकता नहीं है। अनावश्यक दवा का प्रयोग न करें।"]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 15.0,
+      "max_temp_c": 25.0,
+      "min_humidity_pct": 50.0,
+      "rainfall_risk": false,
+      "advisory": {
+        "en": "Conditions are conducive for normal crop growth. Maintain regular scouting.",
+        "hi": "मौसम फसल की सामान्य वृद्धि के अनुकूल है। नियमित निगरानी बनाए रखें।"
+      }
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "crop_name": {"en": "Tomato", "hi": "टमाटर"},
+    "disease_name": {"en": "Bacterial Spot", "hi": "जीवाणु धब्बा रोग"},
+    "status": "diseased",
+    "pathogen": "Xanthomonas perforans / euvesicatoria (Bacteria)",
+    "severity": "Moderate to High",
+    "symptoms": {
+      "en": [
+        "Small (2-3 mm), dark, water-soaked circular lesions on foliage.",
+        "Spots turn angular, dark brown to black, often surrounded by conspicuous yellow halos.",
+        "Center of spots may dry and drop out, creating a shot-hole appearance.",
+        "Scabby, rough, raised circular spots on green and ripe tomato fruits."
+      ],
+      "hi": [
+        "पत्तियों पर 2-3 मिमी आकार के छोटे, गहरे पानी जैसे भीगे धब्बे।",
+        "धब्बे कोणीय होकर गहरे भूरे या काले हो जाते हैं और उनके चारों ओर पीला घेरा बन जाता है।",
+        "धब्बों का बीच का हिस्सा सूखकर गिर सकता है जिससे छेद जैसे दिखते हैं।",
+        "टमाटर के फलों पर खुरदुरे, उभरे हुए काले-भूरे पपड़ीदार चकत्ते बन जाते हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Xanthomonas bacteria carried on or inside seeds and solanaceous crop residues.",
+        "Transmitted rapidly by wind-driven rain, sprinkler irrigation, and wet hand handling.",
+        "Flourishes in warm (25°C–30°C) and highly humid weather."
+      ],
+      "hi": [
+        "जैंथोमोनास जीवाणु संक्रमित बीज और पुरानी फसल के अवशेषों में रहता है।",
+        "हवा के साथ बारिश, फव्वारा सिंचाई और गीली फसल में काम करने से तेजी से फैलता है।",
+        "गर्म (25°C-30°C) और अत्यधिक आर्द्र मौसम में प्रकोप तेजी से बढ़ता है।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Treat seeds with hot water (50°C for 25 min) or certified bactericide before sowing.",
+        "Avoid working in or harvesting from fields when tomato vines are wet.",
+        "Adopt drip irrigation to prevent water splashing from soil onto lower leaves.",
+        "Practice at least a 2-year rotation away from tomato, pepper, and eggplant."
+      ],
+      "hi": [
+        "बुवाई से पहले बीज को गर्म पानी (50°C में 25 मिनट) या प्रमाणित दवा से उपचारित करें।",
+        "जब पौधे गीले हों तब खेत में काम करने या निराई-गुड़ाई से बचें।",
+        "ड्रिप सिंचाई का उपयोग करें ताकि मिट्टी से पानी की बूंदें पत्तियों पर न उछलें।",
+        "टमाटर, मिर्च और बैंगन की फसलों के साथ 2 साल का फसल चक्र रखें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Prune lower leaves touching the soil and stake plants for better aeration.",
+          "Rogue out and destroy severely diseased seedlings before field transplanting."
+        ],
+        "hi": [
+          "जमीन छूने वाली निचली पत्तियों को काट दें और पौधों को डंडियों के सहारे बांधें।",
+          "नर्सरी में रोगग्रस्त पौध दिखने पर तुरंत उखाड़कर नष्ट कर दें।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Spray copper hydroxide formulations approved for organic production.",
+          "Apply bio-agent Bacillus subtilis @ 5g/L water for antagonistic protection."
+        ],
+        "hi": [
+          "जैविक खेती हेतु अनुमोदित कॉपर हाइड्रॉक्साइड का छिड़काव करें।",
+          "बेसिलस सबटिलिस (Bacillus subtilis) 5 ग्राम प्रति लीटर पानी का सुरक्षात्मक छिड़काव करें।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Foliar spray: Copper Oxychloride 50% WP @ 2.5 g/L combined with Streptocycline (Streptomycin sulphate + Tetracycline) @ 1 g per 10 L water.",
+          "Spray at 7-10 day intervals during rainy spells. Ensure thorough coverage.",
+          "Caution: Follow waiting periods strictly before fruit harvest."
+        ],
+        "hi": [
+          "पर्णीय छिड़काव: कॉपर ऑक्सीक्लोराइड 50% WP (2.5 ग्राम/लीटर) के साथ स्ट्रेप्टोसाइक्लिन (1 ग्राम प्रति 10 लीटर पानी) मिलाकर छिड़कें।",
+          "बारिश के मौसम में 7-10 दिनों के अंतराल पर दोहराएं। पत्तियों पर पूरी तरह दवा लगे।",
+          "चेतावनी: फल तोड़ने से पहले प्रतीक्षा अवधि (वेटिंग पीरियड) का कड़ाई से पालन करें।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 24.0,
+      "max_temp_c": 32.0,
+      "min_humidity_pct": 80.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "Warm rainfall and high humidity favor bacterial multiply and splash dispersal.",
+        "hi": "गर्म बारिश और 80% से अधिक नमी में जीवाणु धब्बा रोग का फैलाव तेज होता है।"
+      }
+    }
+  },
+  "Tomato___Early_blight": {
+    "crop_name": {"en": "Tomato", "hi": "टमाटर"},
+    "disease_name": {"en": "Early Blight", "hi": "अगेती झुलसा"},
+    "status": "diseased",
+    "pathogen": "Alternaria solani / linariae (Fungus)",
+    "severity": "Moderate to High",
+    "symptoms": {
+      "en": [
+        "Brown to black circular or irregular spots with distinctive concentric target rings.",
+        "Begins on lowest leaves first, progressing upward as the crop matures.",
+        "Surrounding tissue turns bright yellow, causing premature leaf drop and sunscald on fruits.",
+        "Dark, sunken, leathery cankers can form near the stem base (collar rot)."
+      ],
+      "hi": [
+        "पत्तियों पर भूरे-काले गोल धब्बे जिनमें छल्लेदार चक्र (टारगेट रिंग्स) साफ दिखते हैं।",
+        "रोग सबसे पहले निचली पत्तियों पर शुरू होता है और धीरे-धीरे ऊपर की ओर बढ़ता है।",
+        "धब्बों के आसपास पत्ती पीली पड़ जाती है और गिर जाती है, जिससे फलों पर धूप की कालिमा (सनस्काल्ड) पड़ती है।",
+        "तने के निचले हिस्से पर गहरे, धंसे हुए घाव (कॉलर रॉट) बन सकते हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Survives on infested tomato debris, seeds, and alternate weed hosts.",
+        "Frequent dew, rain, and overhead irrigation accelerate spore germination.",
+        "Optimum temperature: 24°C–29°C with high canopy humidity."
+      ],
+      "hi": [
+        "संक्रमित पौधों के अवशेष, बीज और जंगली सोलेनेसी खरपतवार में फफूंद जीवित रहती है।",
+        "ओस, लगातार बारिश और फव्वारा सिंचाई से कवक के बीजाणु तेजी से अंकुरित होते हैं।",
+        "अनुकूल तापमान 24°C-29°C और पौधे के आसपास अधिक नमी होना।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Mulch around plants with straw or plastic film to prevent soil splash.",
+        "Stake and trellis tomato plants to keep foliage off the ground.",
+        "Rotate crops for at least 3 years away from solanaceous species.",
+        "Provide adequate potassium and calcium nutrition to strengthen cell walls."
+      ],
+      "hi": [
+        "पौधों के चारों ओर पुआल या प्लास्टिक मल्च लगाएं ताकि मिट्टी पत्तियों पर न उछले।",
+        "टमाटर के पौधों को बांस व सुतली के सहारे बांधें ताकि पत्तियां जमीन से ऊपर रहें।",
+        "सोलेनेसी कुल की फसलों से कम से कम 3 साल का फसल चक्र अपनाएं।",
+        "कोशिका भित्ति मजबूत करने के लिए संतुलित पोटाश और कैल्शियम दें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Prune off infected lower leaves early in the morning and discard.",
+          "Sanitize pruning shears with 70% alcohol or 10% bleach between plants."
+        ],
+        "hi": [
+          "सुबह के समय रोगग्रस्त निचली पत्तियों को काटकर खेत से दूर नष्ट करें।",
+          "छंटाई करने वाले औजारों को सैनिटाइज रखें।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Spray Trichoderma harzianum @ 5g/L water preventively.",
+          "Apply baking soda (potassium bicarbonate) spray @ 3g/L with mild surfactant.",
+          "Foliar spray with NSKE 5% or neem oil (3-5 ml/L)."
+        ],
+        "hi": [
+          "ट्राइकोडर्मा हार्जिएनम (5 ग्राम/लीटर) का सुरक्षात्मक छिड़काव करें।",
+          "पोटैशियम बाइकार्बोनेट (3 ग्राम/लीटर) का घोल बनाकर छिड़काव करें।",
+          "नीम बीज अर्क 5% या नीम का तेल (3-5 मिली/लीटर) छिड़कें।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Protective: Mancozeb 75% WP @ 2.0-2.5 g/L or Chlorothalonil 75% WP @ 2.0 g/L.",
+          "Targeted / Systemic: Difenoconazole 25% EC @ 0.5-1 ml/L or Tebuconazole 25.9% EC @ 1 ml/L.",
+          "Ensure spray covers both upper and lower leaf surfaces."
+        ],
+        "hi": [
+          "सुरक्षात्मक: मेंकोजेब 75% WP (2.0-2.5 ग्राम/लीटर) या क्लोरोथैलोनिल 75% WP (2.0 ग्राम/लीटर)।",
+          "प्रणालीगत/उपचारात्मक: डाइफेनोकोनाज़ोल 25% EC (0.5-1 मिली/लीटर) या टेबुकोनाज़ोल 25.9% EC (1 मिली/लीटर)।",
+          "पत्तियों की दोनों सतहों पर समान रूप से छिड़काव करें।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 22.0,
+      "max_temp_c": 30.0,
+      "min_humidity_pct": 75.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "Warm and wet conditions accelerate early blight spread. Mulching and early spray recommended.",
+        "hi": "गर्म और आर्द्र मौसम अगेती झुलसा को बढ़ावा देता है। मल्चिंग और समय पर छिड़काव आवश्यक है।"
+      }
+    }
+  },
+  "Tomato___Late_blight": {
+    "crop_name": {"en": "Tomato", "hi": "टमाटर"},
+    "disease_name": {"en": "Late Blight", "hi": "पछेती झुलसा"},
+    "status": "diseased",
+    "pathogen": "Phytophthora infestans (Oomycete)",
+    "severity": "Critical (High Crop Loss)",
+    "symptoms": {
+      "en": [
+        "Large, irregular, water-soaked greenish-gray greasy lesions on leaves.",
+        "Lesions turn brown and purplish-black, causing entire leaves to shrivel and collapse.",
+        "White downy or cottony mildew on undersides of leaves during cool, damp mornings.",
+        "Firm, dark brown, bumpy lesions on green and ripening tomato fruits."
+      ],
+      "hi": [
+        "पत्तियों पर बड़े, अनियमित, पानी से भीगे हुए हरे-भूरे चिकने चकत्ते।",
+        "चकत्ते तेजी से गहरे भूरे और बैंगनी-काले हो जाते हैं, पत्तियां मुरझाकर झुलस जाती हैं।",
+        "सुबह के ठंडे और सीलन भरे समय पत्तियों के नीचे सफेद रुई जैसी फफूंद दिखती है।",
+        "कच्चे व पके फलों पर सख्त, गहरे भूरे खुरदुरे धब्बे बन जाते हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Same pathogen as potato late blight; easily spreads between potato and tomato plantings.",
+        "Wind-blown spores germinate in cool (12°C–22°C), overcast, and persistently wet environments.",
+        "Can destroy an entire field within 10-14 days without intervention."
+      ],
+      "hi": [
+        "आलू के पछेती झुलसा का ही कारक; आलू और टमाटर के बीच तेजी से फैलता है।",
+        "ठंडे (12°C-22°C), बादलयुक्त और लगातार भीगे मौसम में बीजाणु तेजी से पनपते हैं।",
+        "उपचार न करने पर 10-14 दिनों में पूरी फसल नष्ट हो सकती है।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Do not plant tomatoes in close vicinity to potato fields.",
+        "Plant blight-resistant tomato hybrids where available.",
+        "Ensure wide row spacing and good air circulation.",
+        "Avoid late-evening sprinkler irrigation that leaves leaves wet overnight."
+      ],
+      "hi": [
+        "टमाटर को आलू के खेतों के बिल्कुल पास न लगाएं।",
+        "रोगरोधी संकर किस्मों का चयन करें।",
+        "पंक्तियों के बीच पर्याप्त दूरी रखें ताकि हवा और धूप मिल सके।",
+        "शाम के समय फव्वारा सिंचाई न करें जिससे रात भर पत्तियां गीली न रहें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Immediately uproot and bury severely blighted plants.",
+          "Keep fruit off wet soil using trellis staking and mulch."
+        ],
+        "hi": [
+          "गंभीर रूप से प्रभावित पौधों को तुरंत उखाड़कर गहरे गड्ढे में दबाएं।",
+          "फलों को गीली मिट्टी से दूर रखने के लिए सहारा (स्टेकिंग) दें।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Bordeaux mixture (1%) as a protective cover spray before damp periods.",
+          "Copper octanoate (copper soap) spray per organic guidelines."
+        ],
+        "hi": [
+          "नमी वाले मौसम से पहले 1% बोर्डो मिश्रण का सुरक्षात्मक छिड़काव करें।",
+          "जैविक कॉपर सोप का सुरक्षात्मक छिड़काव करें।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Preventive: Mancozeb 75% WP @ 2.5 g/L or Copper Oxychloride 50% WP @ 3.0 g/L.",
+          "Systemic Curative: Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g/L, or Cymoxanil 8% + Mancozeb 64% WP @ 2.5 g/L.",
+          "Critical Outbreak: Famoxadone 16.6% + Cymoxanil 22.1% SC @ 1 ml/L. Adhere to pre-harvest intervals."
+        ],
+        "hi": [
+          "सुरक्षात्मक: मेंकोजेब 75% WP (2.5 ग्राम/लीटर) या कॉपर ऑक्सीक्लोराइड (3 ग्राम/लीटर)।",
+          "उपचारात्मक: मेटालैक्सिल 8% + मेंकोजेब 64% WP (2.5 ग्राम/लीटर) या साइमोक्सानिल + मेंकोजेब (2.5 ग्राम/लीटर)।",
+          "गंभीर स्थिति: फैमोक्साडोन + साइमोक्सानिल (1 मिली/लीटर)। तुड़ाई से पहले वेटिंग पीरियड का ध्यान रखें।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 12.0,
+      "max_temp_c": 22.0,
+      "min_humidity_pct": 85.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "HIGH ALERT: Cool damp fog or rain creates severe Late Blight threat for tomato crops.",
+        "hi": "हाई अलर्ट: ठंडा, सीलन भरा कोहरा या बारिश टमाटर की फसल में पछेती झुलसा का भारी खतरा पैदा करता है।"
+      }
+    }
+  },
+  "Tomato___healthy": {
+    "crop_name": {"en": "Tomato", "hi": "टमाटर"},
+    "disease_name": {"en": "Healthy Plant", "hi": "स्वस्थ पौधा"},
+    "status": "healthy",
+    "pathogen": "None (Plant is in optimal condition)",
+    "severity": "None",
+    "symptoms": {
+      "en": [
+        "Deep green, lush compound leaves with normal turgor and serrated edges.",
+        "Erect stems, sturdy vines, and healthy yellow blossoms forming fruit clusters.",
+        "Free from leaf spots, curling, wilting, or stem lesions."
+      ],
+      "hi": [
+        "पत्तियां गहरी हरी, चमकदार और पूरी तरह तरोताजा हैं।",
+        "तना मजबूत है, पीले फूल और फल सामान्य रूप से गुच्छों में विकसित हो रहे हैं।",
+        "पत्तियों पर कोई धब्बे, मुड़न, मुरझान या घाव के निशान नहीं हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Optimal irrigation, good fertility balance, and effective pest management."
+      ],
+      "hi": [
+        "उचित सिंचाई, संतुलित पोषण और नियमित कृषि प्रबंधन।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Maintain uniform moisture to avoid blossom end rot (calcium deficiency).",
+        "Support plants with stakes or cages to keep fruit and leaves aerated.",
+        "Continue periodic field inspection every 3-4 days."
+      ],
+      "hi": [
+        "नियमित व समान नमी बनाए रखें ताकि फलों में सड़न (ब्लॉसम एंड रॉट) न हो।",
+        "पौधों को डंडियों के सहारे बांधें ताकि हवा और प्रकाश मिलता रहे।",
+        "हर 3-4 दिन में फसल का नियमित मुआयना करते रहें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": ["Prune suckers regularly to improve airflow through canopy."],
+        "hi": ["अनावश्यक शाखाओं की छंटाई करें ताकि पौधे में हवा का संचार रहे।"]
+      },
+      "organic_biological": {
+        "en": ["Neem-based organic repellent spray (1500 ppm @ 3 ml/L) once every 15 days."],
+        "hi": ["सुरक्षा के लिए 15 दिन में एक बार नीम का तेल (3 मिली/लीटर) छिड़कें।"]
+      },
+      "chemical_guidance": {
+        "en": ["No chemical spray required. Preserve beneficial predators (ladybird beetles, parasitoids)."],
+        "hi": ["किसी रासायनिक दवा की आवश्यकता नहीं है। मित्र कीटों का संरक्षण करें।"]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 18.0,
+      "max_temp_c": 30.0,
+      "min_humidity_pct": 50.0,
+      "rainfall_risk": false,
+      "advisory": {
+        "en": "Favorable growing conditions. Maintain optimal fertigation schedule.",
+        "hi": "मौसम फसल की वृद्धि के लिए अनुकूल है। नियमित खाद-पानी प्रबंधन रखें।"
+      }
+    }
+  },
+  "Corn___Common_rust": {
+    "crop_name": {"en": "Corn (Maize)", "hi": "मक्का"},
+    "disease_name": {"en": "Common Rust", "hi": "मक्का रतुआ / रस्ट"},
+    "status": "diseased",
+    "pathogen": "Puccinia sorghi (Fungus)",
+    "severity": "Moderate",
+    "symptoms": {
+      "en": [
+        "Small, cinnamon-brown to golden-brown powdery pustules (uredinia) on both upper and lower leaf surfaces.",
+        "Pustules rupture the leaf epidermis, releasing powdery rust-colored spores when rubbed.",
+        "As season advances, pustules turn dark brownish-black (teliospores).",
+        "Severe infection leads to leaf chlorosis, premature senescence, and poor grain filling."
+      ],
+      "hi": [
+        "पत्तियों की दोनों सतहों पर छोटे, दालचीनी जैसे भूरे या सुनहरे उभरे हुए फफोले (पुस्ट्यूल्स)।",
+        "हाथ लगाने पर उंगली पर जंग जैसा भूरा पाउडर छूटता है।",
+        "फसल पकने की ओर बढ़ने पर ये दाने काले-भूरे रंग में बदल जाते हैं।",
+        "गंभीर प्रकोप होने पर पत्तियां पीली पड़कर सूखने लगती हैं और दाने छोटे रह जाते हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Puccinia sorghi spores carried over long distances by prevailing wind currents.",
+        "Germination promoted by moderate temperatures (16°C–25°C) and high relative humidity (>95%) with overnight dews.",
+        "Late-planted corn fields are often at highest vulnerability."
+      ],
+      "hi": [
+        "पक्सीनिया सोरघाई कवक के बीजाणु तेज हवाओं के साथ सैकड़ों किलोमीटर दूर से आते हैं।",
+        "मध्यम तापमान (16°C-25°C), भारी ओस और 95% से अधिक नमी में यह तेजी से फैलता है।",
+        "देर से बोई गई मक्का की फसल में इसका प्रकोप सबसे अधिक देखा जाता है।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Plant rust-resistant or tolerant corn hybrids recommended by ICAR / State SAUs.",
+        "Plant crops early in the season to escape peak spore flight windows.",
+        "Avoid excessive nitrogen fertilizer which causes lush, susceptible foliage."
+      ],
+      "hi": [
+        "भारतीय कृषि अनुसंधान परिषद (ICAR) द्वारा अनुमोदित रतुआ-रोधी संकर मक्का किस्मों की बुवाई करें।",
+        "समय पर बुवाई करें ताकि फसल संक्रमण के चरम समय से पहले मजबूत हो जाए।",
+        "अत्यधिक नाइट्रोजन खाद न डालें, जिससे पौधे अत्यधिक कोमल न हों।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Deep summer ploughing to bury volunteer corn and residues.",
+          "Maintain optimal plant population to avoid excessive canopy humidity."
+        ],
+        "hi": [
+          "गर्मियों में गहरी जुताई करें ताकि पुराने अवशेष मिट्टी में दब जाएं।",
+          "पौधों की उचित दूरी रखें ताकि नमी एक जगह न ठहरे।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Foliar spray of Ampelomyces quisqualis or Trichoderma viride @ 5g/L.",
+          "Neem seed kernel extract (NSKE 5%) spray as an early repellent."
+        ],
+        "hi": [
+          "ट्राइकोडर्मा विरिडी (5 ग्राम/लीटर पानी) का पर्णीय छिड़काव करें।",
+          "नीम बीज गिरी का अर्क (NSKE 5%) का सुरक्षात्मक छिड़काव करें।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Protective: Mancozeb 75% WP @ 2.0-2.5 g/L at the first appearance of pustules.",
+          "Systemic: Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/L or Pyraclostrobin 20% WG @ 1 g/L.",
+          "Spray primarily when rust appears before tasseling / silking stage."
+        ],
+        "hi": [
+          "सुरक्षात्मक: लक्षण दिखते ही मेंकोजेब 75% WP (2.0-2.5 ग्राम/लीटर) का छिड़काव करें।",
+          "प्रणालीगत: एज़ोक्सीस्ट्रोबिन + डाइफेनोकोनाज़ोल (1 मिली/लीटर) या पायरैक्लोस्ट्रोबिन 20% WG (1 ग्राम/लीटर)।",
+          "नर मंजरी (टैसल) और भुट्टे में बाल (सिल्क) आने से पहले छिड़काव अधिक असरदार रहता है।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 16.0,
+      "max_temp_c": 25.0,
+      "min_humidity_pct": 85.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "Moderate temperatures and heavy morning dew foster corn rust germination. Scout whorls and lower leaves.",
+        "hi": "मध्यम तापमान और सुबह की भारी ओस मक्का रतुआ के लिए अनुकूल है। पत्तियों की निचली सतह की जांच करें।"
+      }
+    }
+  },
+  "Corn___Northern_Leaf_Blight": {
+    "crop_name": {"en": "Corn (Maize)", "hi": "मक्का"},
+    "disease_name": {"en": "Northern Leaf Blight", "hi": "उत्तरी पत्ती झुलसा"},
+    "status": "diseased",
+    "pathogen": "Exserohilum turcicum (Fungus)",
+    "severity": "High",
+    "symptoms": {
+      "en": [
+        "Characteristic long, elliptical, grayish-green or tan cigar-shaped lesions (2.5 to 15 cm long).",
+        "Lesions develop parallel to leaf veins, beginning on lower leaves and moving up.",
+        "Under damp conditions, dark olive-green to black fungal sporulation covers lesion surfaces.",
+        "Lesions coalesce, causing extensive blighting and gray drying of entire foliage."
+      ],
+      "hi": [
+        "पत्तियों पर लंबे, अंडाकार, सिगार के आकार के भूरे-हरे या खाकी चकत्ते (2.5 से 15 सेमी लंबे)।",
+        "चकत्ते पत्तियों की नसों के समानांतर बनते हैं और नीचे से ऊपर की ओर बढ़ते हैं।",
+        "नमी वाले मौसम में चकत्तों पर गहरे जैतून-हरे या काले रंग की फफूंद दिखने लगती है।",
+        "कई चकत्ते मिलकर पूरी पत्ती को झुलसा देते हैं और पत्तियां राख जैसी सूख जाती हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Fungus overwinters in corn residue left on the soil surface.",
+        "Spores splashed by rain and carried by wind into the corn canopy.",
+        "Favored by moderate temperatures (18°C–27°C) and extended leaf wetness (6-12 hours)."
+      ],
+      "hi": [
+        "कवक खेत में पड़े मक्का के पुराने अवशेषों में जीवित रहता है।",
+        "बारिश की छींटों और हवा द्वारा बीजाणु पौधों के ऊपरी भागों तक पहुंचते हैं।",
+        "मध्यम तापमान (18°C-27°C) और लंबे समय तक पत्तियों पर पानी टिके रहने (6-12 घंटे) से रोग फैलता है।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Choose high-yielding, NLB-resistant hybrids (carrying Ht genes).",
+        "Crop rotation with soybean, pulses, or mustard to break fungal cycle.",
+        "Tillage management: Incorporate infected crop residues deep into soil after harvest."
+      ],
+      "hi": [
+        "उत्तरी पत्ती झुलसा रोधी संकर किस्मों का चयन करें।",
+        "सोयाबीन, दलहन या सरसों के साथ फसल चक्र अपनाएं ताकि फफूंद का जीवन चक्र टूटे।",
+        "कटाई के बाद खेत की गहरी जुताई करके फसल अवशेषों को मिट्टी में दबा दें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": [
+          "Ensure adequate soil potassium levels; high N with low K aggravates blight.",
+          "Manage irrigation timing so foliage dries completely before nightfall."
+        ],
+        "hi": [
+          "मिट्टी में पोटाश की पर्याप्त मात्रा रखें; अधिक नाइट्रोजन व कम पोटाश से रोग बढ़ता है।",
+          "सिंचाई दिन के समय करें ताकि रात होने से पहले पत्तियां सूख जाएं।"
+        ]
+      },
+      "organic_biological": {
+        "en": [
+          "Foliar spray with Trichoderma harzianum or Bacillus subtilis @ 5g/L.",
+          "Application of vermiwash + fermented cow dung slurry spray as protective bio-shield."
+        ],
+        "hi": [
+          "ट्राइकोडर्मा या बैसिलस सबटिलिस (5 ग्राम/लीटर) का छिड़काव करें।",
+          "वर्मीवाश और गोमूत्र के जैविक घोल का पर्णीय छिड़काव सुरक्षा कवच प्रदान करता है।"
+        ]
+      },
+      "chemical_guidance": {
+        "en": [
+          "Mancozeb 75% WP @ 2.5 g/L or Zineb 75% WP @ 2.0 g/L at early lesion stage.",
+          "Systemic: Propiconazole 25% EC @ 1 ml/L or Azoxystrobin 23% SC @ 1 ml/L.",
+          "Apply fungicide if disease reaches ear leaf or two leaves below ear leaf before silking."
+        ],
+        "hi": [
+          "प्रारंभिक अवस्था में मेंकोजेब 75% WP (2.5 ग्राम/लीटर) या जिनेब 75% WP (2 ग्राम/लीटर) छिड़कें।",
+          "प्रणालीगत कवकनाशी: प्रोपिकोनाज़ोल 25% EC (1 मिली/लीटर) या एज़ोक्सीस्ट्रोबिन (1 मिली/लीटर)।",
+          "भुट्टा बनने से पहले यदि निचली पत्तियों पर चकत्ते दिखें तो छिड़काव तुरंत करें।"
+        ]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 18.0,
+      "max_temp_c": 27.0,
+      "min_humidity_pct": 80.0,
+      "rainfall_risk": true,
+      "advisory": {
+        "en": "Moderate warmth with overcast skies and frequent showers triggers Northern Leaf Blight spread.",
+        "hi": "मध्यम तापमान, बादल छाए रहना और रुक-रुक कर बारिश होना उत्तरी पत्ती झुलसा को तेजी से बढ़ाता है।"
+      }
+    }
+  },
+  "Corn___healthy": {
+    "crop_name": {"en": "Corn (Maize)", "hi": "मक्का"},
+    "disease_name": {"en": "Healthy Plant", "hi": "स्वस्थ पौधा"},
+    "status": "healthy",
+    "pathogen": "None (Plant is in optimal condition)",
+    "severity": "None",
+    "symptoms": {
+      "en": [
+        "Broad, vibrant green arching leaves without rust pustules or lesions.",
+        "Thick, sturdy stalks with strong brace roots firmly anchoring the plant.",
+        "Well-filled cobs with healthy green husks and golden-brown silks."
+      ],
+      "hi": [
+        "पत्तियां चौड़ी, गहरी हरी और चमकदार हैं, कोई रतुआ या धब्बे नहीं हैं।",
+        "मजबूत तना और सहारा देने वाली जड़ें पौधे को मजबूती से थामे हुए हैं।",
+        "भुट्टे स्वस्थ हरे आवरण और सुनहरी मूंछों (सिल्क) के साथ अच्छी तरह भर रहे हैं।"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Balanced fertilisation, timely irrigation, weed-free field conditions."
+      ],
+      "hi": [
+        "संतुलित खाद, समय पर सिंचाई और खरपतवार रहित खेत।"
+      ]
+    },
+    "preventive_measures": {
+      "en": [
+        "Apply top-dressing of urea at knee-high and tasseling stages.",
+        "Avoid waterlogging at all costs; corn is sensitive to standing water.",
+        "Scout whorls regularly for Fall Armyworm (Spodoptera frugiperda)."
+      ],
+      "hi": [
+        "घुटने की ऊंचाई और फूल आने के समय संतुलित यूरिया की टॉप-ड्रेसिंग करें।",
+        "खेत में जलभराव बिल्कुल न होने दें; मक्का पानी ठहरने के प्रति संवेदनशील है।",
+        "फॉल आर्मीवर्म (सैनिक कीट) के लिए पौधे के गोभ (व्हर्ल) की नियमित जांच करें।"
+      ]
+    },
+    "treatment": {
+      "cultural": {
+        "en": ["Earthing up at 30-35 days after sowing to strengthen lodging resistance."],
+        "hi": ["बुवाई के 30-35 दिन बाद पौधों पर मिट्टी चढ़ाएं ताकि हवा में पौधे गिरे नहीं।"]
+      },
+      "organic_biological": {
+        "en": ["Neem cake application at root zone and pheromone traps for insect monitoring."],
+        "hi": ["जड़ों के पास नीम की खली का प्रयोग और कीट निगरानी हेतु फेरोमोन ट्रैप लगाएं।"]
+      },
+      "chemical_guidance": {
+        "en": ["No fungicide necessary. Practice integrated pest management (IPM)."],
+        "hi": ["किसी कवकनाशी की आवश्यकता नहीं है। एकीकृत कीट प्रबंधन अपनाएं।"]
+      }
+    },
+    "weather_favorable_conditions": {
+      "min_temp_c": 20.0,
+      "max_temp_c": 32.0,
+      "min_humidity_pct": 50.0,
+      "rainfall_risk": false,
+      "advisory": {
+        "en": "Optimal growing conditions for maize grain development. Ensure soil drainage.",
+        "hi": "मक्का के दाने भरने के लिए मौसम अनुकूल है। जल निकासी की व्यवस्था बनाए रखें।"
+      }
+    }
+  }
+}
