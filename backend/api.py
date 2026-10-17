@@ -9,6 +9,8 @@ from fastapi import FastAPI, File, UploadFile, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+
+
 import config
 from src.preprocessing import ImageValidationError
 from src.predictor import KrishiPredictor
